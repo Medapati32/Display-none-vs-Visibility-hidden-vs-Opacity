@@ -1,0 +1,29 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+/* body{
+    font-family: Arial, Helvetica, sans-serif;
+} */
+h1{
+    
+    background: blue;
+    color: white;
+    padding: 10px;
+}
+.none{
+    display: none;
+}
+.visibility{
+    visibility: hidden;
+}
+.opacity-first{
+    opacity: 1;
+}
+.opacity-second{
+    opacity:0.5;
+}
+.opacity-last{
+    opacity:0;
+}
